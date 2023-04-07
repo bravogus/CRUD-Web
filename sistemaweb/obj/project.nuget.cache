@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GyxsJk3YdDxbEFeOFYxkjHS17oSIKEVdgrejcUPP/qbavSAqasT+NsXqd46QWdhAY6sNza3A6tPTfV1HA5V+GA==",
+  "dgSpecHash": "NbgJ+FpG1aYpJFtL0ymQM0WMqC1KuXLiLllIkDZXFQB/m6ZXwfg5OSJGfxufxSaEYthM8f2nChAbbYhIRs8BiA==",
   "success": true,
-  "projectFilePath": "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\sistemaweb.csproj",
+  "projectFilePath": "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\sistemaweb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabravo\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\gabravo\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\sistemaweb.csproj": {}
+    "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\sistemaweb.csproj": {}
   },
   "projects": {
-    "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\sistemaweb.csproj": {
+    "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\sistemaweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\sistemaweb.csproj",
+        "projectUniqueName": "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\sistemaweb.csproj",
         "projectName": "sistemaweb",
-        "projectPath": "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\sistemaweb.csproj",
+        "projectPath": "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\sistemaweb.csproj",
         "packagesPath": "C:\\Users\\gabravo\\.nuget\\packages\\",
-        "outputPath": "C:\\Proyecto ASPNet Core\\sistemaweb\\sistemaweb\\obj\\",
+        "outputPath": "C:\\Users\\gabravo\\Documents\\GitHub\\CRUD-Web\\sistemaweb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabravo\\AppData\\Roaming\\NuGet\\NuGet.Config",
